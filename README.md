@@ -1,7 +1,7 @@
 # redstar upscaler
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/82886044-0bb6-4bf5-82c0-3e6e2a518f2a" height="173"/>
+  <img src="https://github.com/user-attachments/assets/632c3a83-5416-46c3-8d38-0e1bf153b633" height="250"/>
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@
 > ⚠️ Windows 환경에서 개발 및 테스트되었습니다.
 
 아래는 간단한 사용 데모화면입니다.<br>
-![미디어1](https://github.com/redstar-javscraper/redstar_upscaler/assets/72743692/452c91f1-b011-4231-b280-cb510cf35544)
+![미디어1](https://github.com/user-attachments/assets/a4d79428-9e07-405b-a650-18c29b670537)
 
 ## 💾 설치 및 준비사항
 
