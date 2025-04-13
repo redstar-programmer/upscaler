@@ -46,7 +46,7 @@
 > ⚠️ Windows 환경에서 개발 및 테스트되었습니다.
 
 아래는 간단한 사용 데모화면입니다.<br>
-[![미디어1](https://img.youtube.com/vi/동영상ID/hqdefault.jpg)](https://github.com/user-attachments/assets/a4d79428-9e07-405b-a650-18c29b670537)
+[![미디어1](https://github.com/user-attachments/assets/ba601a08-6749-45fd-ae21-f1a2a52987f6)
 
 ## 💾 설치 및 준비사항
 
