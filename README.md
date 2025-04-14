@@ -11,7 +11,7 @@
 
 ---
 
-다운로드 : [Release](https://github.com/redstarupscaler/upscaler/releases)
+다운로드 : [Release](https://github.com/redstar-programmer/upscaler/releases/)
 
 ## ✨ redstar' upscaler를 후원해 주세요
 
