@@ -58,12 +58,27 @@
 
 ## 🔧 주요 기능
 
+![Image](https://github.com/user-attachments/assets/072af636-e967-4e4b-b194-33b96f580780)
 - ✅ 영상 다중 선택 및 순차 작업
+- ✅ 영상 드래그/드랍 추가
+- ✅ 주요 프로그램 실행 가능여부 및 직접 선택
+- ✅ 디스크 절약 모드
+
+![Image](https://github.com/user-attachments/assets/23dd7e8a-0e01-409f-b162-a9512fda09fc)
 - ✅ 프리셋 저장 및 자동 적용
 - ✅ 오디오 코덱 자동 감지 및 비트레이트 설정
 - ✅ realesrgan 모델 자동 탐지 및 선택
+- ✅ FFMPEG, real-ESRGAN, Flowframes 상세 설정
+- ✅ Flowframes 버전에 따른 옵션 설정 변경<br>(버전 변경은 메인 페이지의 flowframes에서 해당 버전 경로 지정시 변경 가능)
+
+![Image](https://github.com/user-attachments/assets/ab7d9410-1fb4-450b-92d5-56a6d583a64c)
+- ✅ 업스케일 실행명령 확인(cmd상에서 별도로 복사해 실행할 수 있음)
+
+![Image](https://github.com/user-attachments/assets/4898904a-bb23-4dba-997d-23ca744fed93)
+- ✅ 업스케일 작업의 전반적인 진행 현황 모니터링
+- ✅ 업스케일 로깅 확인(로그파일은 실생폴더 내 log폴더에 날짜로 생성)
 - ✅ 작업 완료 후 결과물 자동 정리 ([REDSTAR] 접두어 부여)
-- ✅ 변경된 UI
+- ✅ 작업 완료 후 동작 설정 가능<br>( 아무것도 하지 않음 / 프로그램 종료 / 슬립모드 / 하이버네이트 모드 / 윈도우 종료)
 
 ## 🚀 사용 방법 (Quick Start)
 
