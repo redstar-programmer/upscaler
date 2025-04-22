@@ -55,6 +55,7 @@
    - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN/releases)
    - [Flowframes](https://github.com/n00mkrad/flowframes) *(선택)*
 2. 압축 해제 후 readstar's upscaler.exe 실행
+3. Flowframes의 경우, 사용자 환경에 따라 로드되는 모델이 다를 수 있으므로 반드시 Flowframes를 실행한 후<br>Interpolation 탭의 Interpolation AI 및 AI Model이 redstar upscaler의 resources/flowframes_models.ini 버전과 일치해야 합니다. <br>로드되지 않은 모델은 # 표시를 통해 주석처리하고 반드시 redstar upscaler의 설정 창의 모델 순서가 <br>Flowframes의 모델 순서와 일치하는지 확인하고 작업을 진행하시기 바랍니다.
 
 ## 🔧 주요 기능
 
@@ -63,6 +64,7 @@
 - ✅ 영상 드래그/드랍 추가
 - ✅ 주요 프로그램 실행 가능여부 및 직접 선택
 - ✅ 디스크 절약 모드
+- ✅ 다국어 지원(15개 언어어)
 <br><br>
 ![Image](https://github.com/user-attachments/assets/23dd7e8a-0e01-409f-b162-a9512fda09fc)
 - ✅ 프리셋 저장 및 자동 적용
@@ -112,6 +114,17 @@
 - 이 프로젝트에 참여하거나 기능을 제안하고 싶으시다면 [Issues](https://github.com/redstar-javscraper/redstar_upscaler/issues)에 의견을 남겨주세요.
 
 # 📜 History
+
+v 1.1.0
+ > 1. 메뉴 구성(파일 열기, 닫기, 로그설정, 언어 설정)
+ > 2. 다중 언어 설정 추가( 사용 가능 언어: 한국어, English, 日本語, 中文, Français, Deutsch, Español, Português, Русский, Tiếng Việt, Bahasa Indonesia, ไทย, Italiano, العربية)
+ > 3. 언어 설정 추가에 따른 메시지 및 일부 코드 변경
+ > 4. 일부 UI 구성 변경
+ > 5. ffmpeg, real-ESRGAN, Flowframes 각 버전정보 표시(메인화면)
+ > 6. Flowframes 1.41.0 버전 대응(현재 1.41.0 버전에 cmd 명령어 이슈가 있어서 1.40.0, 1.36.0 버전만 사용 가능)
+ > 7. AI Models 항목이 소문자로 표시되는 문제 해결
+ > 8. FFMPEG 옵션 추가(Pixel, video codec) - 사용자 PC에 맞는 옵션이 표시됨
+ > 9. 사용자 PC별 CUDA 체크 강화 - 사용 가능 여부 및 GPU 종류 확인 가능(메인 화면)
 
 v 1.0.0
  > 1. 전체 코드 재 작성
