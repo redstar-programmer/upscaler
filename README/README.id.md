@@ -1,11 +1,11 @@
 # Redstar Upscaler
 Video Upscaling Video Kuat FFMPEG, Real-Esrgan, Flowframes-NOW mendukung ** UI multi-bahasa **!
 
-🌐 Bahasa:
-[Bahasa Inggris] (readme.en.md) | [Korea] (readme.md) | [日本語] (readme.ja.md) | [中文] (readme.zh.md) |
-[Français] (readme.fr.md) | [Deutsch] (readme.de.md) | [Español] (readme.es.md) | [Português] (readme.pt.md) |
-[Рский] (readme.ru.md) | [Italiano] (readme.it.md) | [Tiếng việt] (readme.vi.md) | [Bahasa Indonesia] (Readme.id.md) |
-[ภ ไทย] (readme.th.md) | [ال] (readme.ar.md)
+## 🌐 Pengaturan bahasa / bahasa
+[Korea] (readme/readme.md) | [Bahasa Inggris] (readme/readme.en.md) | [日本語] (readme/readme.ja.md) | [中文] (readme/readme.zh.md) |
+[Français] (readme/readme.fr.md) | [Deutsch] (readme/readme.de.md) | [Español] (readme/readme.es.md) | [Português] (readme/readme.pt.md) |
+[Рсский] (readme/readme.ru.md) | [Italiano] (readme/readme.it.md) | [Tiếng việt] (readme/readme.vi.md) | [Bahasa Indonesia] (Readme/Readme.id.md) |
+[ภ ไทย ไทย] (readme/readme.th.md) | [ال] (readme/readme.ar.md)
 
 <p align = "center">
   <Img src = "https://github.com/user-attachments/assets/632c3a83-5416-8d38-0e153b633" height = "/"/>
@@ -23,7 +23,7 @@ Unduh: [rilis]
 ## ✨ Sponsor The Redstar 'Upscaler
 
 Apakah Anda ingin menyukai proyek ini atau pengembangan dukungan?  
-Bantu fitur yang lebih baik dan pembaruan yang stabil dengan sponsor kecil!
+Bantu fitur yang lebih baik dan pembaruan yang stabil dengan sponsor kecil!  
 
 -<img src = "https://img.shields.io/badge/donate-paypal-blue.svg?logo=paypal" height = "20"/> <br> ** paypal **: )  
 -<img src = "https://img.shields.io/badge/sponsor-gigub20sponsors-f69b4?logo=githubsponsors" height = "20"/> <br> ** sponsor github **: [https://github.com/spons/sponsar ** **: [https://github.com/spons/sponsar
@@ -42,7 +42,7 @@ Bantu fitur yang lebih baik dan pembaruan yang stabil dengan sponsor kecil!
 - [📜 Sejarah] (#History)
 
 ## 👋 PENDAHULUAN
-** Redstar Upscaler ** adalah alat GUI berbasis Python yang secara otomatis meningkatkan video ke resolusi tinggi menggunakan `ffmpeg`, 'real-esrgan', dan 'flowframe'. 
+** Redstar Upscaler ** adalah alat GUI berbasis Python yang secara otomatis meningkatkan video ke resolusi tinggi menggunakan `ffmpeg`, 'real-esrgan', dan 'flowframe'.
 
 -Ekstraksi bingkai video → peningkatan → kombinasi video sekaligus
 -Mengsek

@@ -1,11 +1,11 @@
 # redstar upscaler
 Powerful video upscaling tool using FFmpeg, Real-ESRGAN, Flowframes — now supports **multi-language UI**!
 
-🌐 Language:
-[English](README.en.md) | [한국어](README.md) | [日本語](README.ja.md) | [中文](README.zh.md) |
-[Français](README.fr.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Português](README.pt.md) |
-[Русский](README.ru.md) | [Italiano](README.it.md) | [Tiếng Việt](README.vi.md) | [Bahasa Indonesia](README.id.md) |
-[ภาษาไทย](README.th.md) | [العربية](README.ar.md)
+## 🌐 Language / 언어 설정
+[한국어](README/README.md) | [English](README/README.en.md) | [日本語](README/README.ja.md) | [中文](README/README.zh.md) |
+[Français](README/README.fr.md) | [Deutsch](README/README.de.md) | [Español](README/README.es.md) | [Português](README/README.pt.md) |
+[Русский](README/README.ru.md) | [Italiano](README/README.it.md) | [Tiếng Việt](README/README.vi.md) | [Bahasa Indonesia](README/README.id.md) |
+[ภาษาไทย](README/README.th.md) | [العربية](README/README.ar.md)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/632c3a83-5416-46c3-8d38-0e1bf153b633" height="250"/>

@@ -1,17 +1,17 @@
 # upscaler redstar
 Puissant outil d'upscaling vidéo utilisant FFmpeg, Real-ESRGAN, Flowframes - supporte maintenant **l'interface multilingue** !
 
-🌐 Language :
-[English](README.en.md) | [한국어](README.md) | [日本語](README.ja.md) | [中文](README.zh.md) | [English](README.fr.md) | [한국어](README.md) | [中文](README.zh.md) |
-[Français](README.fr.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Português](README.pt.md) |
-[Русский](README.ru.md) | [Italiano](README.it.md) | [Tiếng Việt](README.vi.md) | [Bahasa Indonesia](README.id.md) | [Bahasa Indonesia](README.id.md)
-[ภาษาไทย](README.th.md) | [العربية](README.ar.md)
+## 🌐 Langue / Paramètres de langue
+[한국어](README/README.md) | [English](README/README.en.md) | [日本語](README/README.ja.md) | [中文](README/README.zh.md) | [English](README/README.en.md) | [Français](README/README.zh.md)
+[Français](README/README.fr.md) | [Deutsch](README/README.de.md) | [Español](README/README.es.md) | [Português](README/README.pt.md) | [Русс](README/README.zh.md)
+[Русский](README/README.ru.md) | [Italiano](README/README.it.md) | [Tiếng Việt](README/README.vi.md) | [Bahasa Indonesia](README/README.id.md) | [Bahasa Indonesia](README/README.id.md) |
+[ภาษาไทย](README/README.th.md) | [العربية](README/README.ar.md)
 
 <p align="centre">
   <img src="https://github.com/user-attachments/assets/632c3a83-5416-46c3-8d38-0e1bf153b633" height="250"/>
 </p>
 
-<p align="center">
+<p align="centre">
   <strong>Outil d'upscaling vidéo basé sur fmpeg, realesrgan, flowframes</strong><br><br>.
   <em>Moderne, basé sur une interface graphique, paramètres prédéfinis, prise en charge du traitement multi-fichier</em>.
 </p>
@@ -62,13 +62,13 @@ Vous trouverez ci-dessous une démonstration d'utilisation simple, cliquez dessu
    - Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN/releases)
    - Flowframes](https://github.com/n00mkrad/flowframes) *(optionnel)*.
 2. décompressez et exécutez le fichier upscaler.exe de readstar
-3. dans le cas de Flowframes, les modèles chargés peuvent être différents en fonction de votre environnement ; veillez donc à exécuter Flowframes et à vous assurer que l'IA d'interpolation et le modèle d'IA dans l'onglet Interpolation correspondent à la version de resources/flowframes_models.ini de l'upscaler redstar. <br>Commentez les modèles qui ne sont pas chargés en les marquant par # et assurez-vous que l'ordre des modèles dans la fenêtre des paramètres de l'upscaler redstar correspond à l'ordre des modèles dans <br>Flowframes<br>avant de poursuivre.
+3. dans le cas de Flowframes, les modèles chargés peuvent être différents en fonction de l'environnement de l'utilisateur ; veillez donc à exécuter Flowframes et à vous assurer que l'IA d'interpolation et le modèle d'IA dans l'onglet Interpolation correspondent à la version de resources/flowframes_models.ini de l'upscaler redstar. <br>Commentez les modèles qui ne sont pas chargés en les marquant d'un # et assurez-vous que l'ordre des modèles dans la fenêtre des paramètres de l'upscaler redstar correspond à l'ordre des modèles dans <br>Flowframes> avant de poursuivre.
 
 ## 🔧 Principales caractéristiques.
 
 ![Image](https://github.com/user-attachments/assets/93dc232e-8742-4ae3-b335-9395c26a61f4)
-- ✅ Sélection multiple de vidéos et fonctionnement séquentiel
-- ✅ Ajout d'une vidéo par glisser/déposer
+- ✅ Sélection multiple d'images et fonctionnement séquentiel
+- ✅ Ajout de vidéos par glisser/déposer
 - ✅ Disponibilité des programmes principaux et sélection directe
 - Mode d'économie de disque
 - ✅ Prise en charge multilingue (15 langues)
@@ -87,7 +87,7 @@ Vous trouverez ci-dessous une démonstration d'utilisation simple, cliquez dessu
 - Contrôler la progression générale de l'opération de mise à l'échelle
 - Vérifier la journalisation de la montée en gamme (les fichiers journaux sont créés par date dans le dossier journal du dossier live).
 - Nettoyer automatiquement les livrables à la fin de la tâche (préfixés par [REDSTAR])
-- ✅ Définir l'action après la fin de la tâche<br>( Ne rien faire / Quitter le programme / Mode veille / hibernation / Fermer la fenêtre)
+- ✅ Définir l'action après la fin de la tâche<br>( Ne rien faire / Quitter le programme / Sommeil / Mode hibernation / Fermer la fenêtre)
 <br><br>
 ## 🚀 Comment utiliser (Démarrage rapide)
 
@@ -105,7 +105,7 @@ Vous trouverez ci-dessous une démonstration d'utilisation simple, cliquez dessu
 
 ## ⚙️ Description détaillée de la fonction
 
-| Élément | Description |
+| Description de l'article | Description de l'article
 |------|------|
 | Définir le chemin d'accès** | Fournir le chemin d'accès par défaut ou l'option "Utiliser le chemin d'accès du fichier d'origine".
 | La plupart des formats sont pris en charge, y compris MP4, MKV, AVI, MOV, FLV, WMV, MPG, WEBM, 3GP, OGV, etc.

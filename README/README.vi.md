@@ -1,11 +1,11 @@
 # Redstar Upscaler
 Video mạnh mẽ Công cụ nâng cấp FFMPEG, Real-Esrgan, FlowFrames-Now hỗ trợ ** UI đa ngôn ngữ **!
 
-🌐 Ngôn ngữ:
-[Tiếng Anh] (readme.en.md) | [Hàn Quốc] (readme.md) | [日本語] (readme.ja.md) | [中文] (readme.zh.md) |
-[Français] (readme.fr.md) | [Deutsch] (readme.de.md) | [Español] (readme.es.md) | [Bồ Đào Nha] (readme.pt.md) |
-[Р р] (readme.ru.md) | [Ý] (readme.it.md) | [Tiếng việt] (readme.vi.md) | [Bahasa Indonesia] (readme.id.md) |
-[ภ ไทย] (readme.th.md) | [ال] (readme.ar.md)
+## Cài đặt ngôn ngữ / ngôn ngữ
+[Hàn Quốc] (readme/readme.md) | [Tiếng Anh] (Readme/Readme.en.MD) | [日本語] (readme/readme.ja.md) | [中文] (readme/readme.zh.md) |
+[Français] (readme/readme.fr.md) | [Deutsch] (readme/readme.de.md) | [Español] (readme/readme.es.md) | [Bồ Đào Nha] (readme/readme.pt.md) |
+[Р р [Ý] (Readme/readme.it.md) | [Tiếng việt] (readme/readme.vi.md) | [Bahasa Indonesia] (Readme/readme.id.md) |
+[ภ ไทย ไทย] (readme/readme.th.md) | [ال] (readme/readme.ar.md)
 
 <p align = "centre">
   Nó
@@ -23,7 +23,7 @@ Tải xuống: [Phát hành]
 ##
 
 Bạn có muốn thích dự án này hoặc phát triển hỗ trợ?  
-Giúp một tính năng tốt hơn và cập nhật ổn định với một tài trợ nhỏ!
+Giúp một tính năng tốt hơn và cập nhật ổn định với một tài trợ nhỏ!  
 
 -<img src = "https://img.shields.io/badge/donate-paypal-blue.svg?logo=paypal" height = "20"/> <br> ** paypal **: [https:  
 -<img src = "https://img.shields.io/badge/sponsor-gigub20sorsors-f69b4?logo=githubsors
@@ -42,7 +42,7 @@ Giúp một tính năng tốt hơn và cập nhật ổn định với một tà
 - [📜 Lịch sử] (#History)
 
 ## Giới thiệu
-** Redstar Upscaler ** là một công cụ GUI dựa trên Python tự động nâng cấp video lên độ phân giải cao bằng cách sử dụng `ffmpeg`, 'real-esrgan' và 'flowFrames'. 
+** Redstar Upscaler ** là một công cụ GUI dựa trên Python tự động nâng cấp video lên độ phân giải cao bằng cách sử dụng `ffmpeg`, 'real-esrgan' và 'flowFrames'.
 
 -THER FRAME VIDEO → Tăng cường → Kết hợp video cùng một lúc
 -Support cho các mô hình Realesrgan khác nhau

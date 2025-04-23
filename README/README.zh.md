@@ -1,11 +1,11 @@
 # 红星缩放器
 使用 FFmpeg、Real-ESRGAN 和 Flowframes 的强大视频升频工具，现在支持 ** 多语言用户界面！
 
-🌐 语言：
-英语](README.en.md) | [韩语](README.md) | [日本語](README.ja.md) | [中文](README.zh.md) | [法语](README.zh.md)
-[Français](README.fr.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Português](README.pt.md) | [中文](README.zh.md)
-[Русский](README.ru.md) | [Italiano](README.it.md) | [Tiếng Việt](README.vi.md) | [Bahasa Indonesia](README.id.md) | [ภาษาไทททย](README.id.md)
-[ภาษาไทย](README.th.md) | [العربية](README.ar.md)
+## 🌐 语言/语言设置
+[한국어](README/README.md) | [英语](README/README.en.md) | [日本語](README/README.ja.md) | [中文](README/README.zh.md) |
+[Français](README/README.fr.md) | [Deutsch](README/README.de.md) | [Español](README/README.es.md) | [Português](README/README.pt.md) | [中文](README/README.zh.md)
+
+[ภาษาไทย](README/README.th.md) | [العربية](README/README.ar.md)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/632c3a83-5416-46c3-8d38-0e1bf153b633" height="250"/>
@@ -55,7 +55,7 @@
 下面是一个简单的使用演示，点击后会跳转到 YouTube：<br> <br
 [![观看演示](https://img.youtube.com/vi/G-JTWRws3co/0.jpg)](https://youtu.be/G-JTWRws3co "在 YouTube 上观看")
 
-## 💾 安装和准备工作
+## 💾 安装与准备
 
 1. 安装并找到以下外部工具（注意，分发文件包括 ffmpeg、Real-ESRGAN 和 Flowframes 安装文件（请参阅路径中的程序文件夹）
    - [ffmpeg](https://www.ffmpeg.org/download.html)
@@ -67,7 +67,7 @@
 ## 🔧 主要功能。
 
 ![Image](https://github.com/user-attachments/assets/93dc232e-8742-4ae3-b335-9395c26a61f4)
-- 多个视频选择和顺序操作
+- ✅ 多选图像和顺序操作
 - 添加拖放视频
 - 主要节目可用性和直接选择
 - 光盘保存模式
@@ -95,7 +95,7 @@
 2. 指定工作位置或勾选 "使用原始文件路径 "复选框
 3. 点击已添加视频上的 "设置 "按钮
 4. 对 ffmpeg、realESRGAN、Flowframes 进行详细设置
-5. 单击 "批量应用于所有文件"/"仅应用于选定的文件
+5. 点击 "批量应用于所有文件"/"仅应用于选定文件"。
 6. 单击 "确认 "按钮
 7. 选中要执行的命令并单击 "开始任务 "按钮
 
@@ -116,7 +116,7 @@
 
 ## 🙏 鸣谢
 
-- realesrgan by [xinntao](https://github.com/xinntao/Real-ESRGAN)
+- realesrgan 作者 [xinntao](https://github.com/xinntao/Real-ESRGAN)
 - flowframes 作者 [n00mkrad](https://github.com/n00mkrad/flowframes)
 - 如果您想为本项目做出贡献或提出功能建议，请在 [Issues](https://github.com/redstar-javscraper/redstar_upscaler/issues) 上留言。
 
@@ -142,7 +142,7 @@ v 1.0.0
 
 v 0.1.92
  > 1.修正了在改变 Flowframes 路径时，由于 AI 模型组合框中的重复输入而导致插值失败的问题。
- > 增加了插值时组合框选择状态的检查代码。
+ > 2. 添加了插值时组合框选择状态的检查代码。
 
 v 0.1.91
  增加了一些与 Flowframes 相关的组合框刷新功能 > 2.
@@ -191,7 +191,7 @@ v 0.1.4
  > 4. 在任务列表中鼠标移动时以工具提示形式显示完整文件名
  > 5. 显示任务列表中每个文件的分辨率（之前）/分辨率（之后）/FPS（之前）/FPS（之后
  > 删除 FPS 输入框（因为每个文件都有上述标签）
- 删除输出 FPS 估计值大小（由于上述针对每个文件的标记而删除） > 8.
+ > 7. 删除输出 FPS 估计大小（由于上述针对每个文件的标记而删除）
  > 8. 以两个进度条的形式显示所有文件/任务的进度
 
 v 0.1.3
@@ -203,7 +203,7 @@ v 0.1.2
  > 修正了当选择以下两个模型时 realesrgan 模型无法运行的问题
  > 改变了使用 realesrgan 模型的方式
  > -> 将新模型文件（*.param）复制到 realesrgan 安装文件夹下的模型文件夹中即可使用。
- 显示目标图像最后一个文件的宽度、高度信息和估计的放大尺寸，以便使用 > 6.
+ > 显示目标图像最后一个文件的宽度、高度信息和估计的缩放尺寸。
  > 编写代码以迁移 config.ini 文件
  > 更改 FFMPEG 分解图像 AAC -> FLAC
  > 8. 其他错误修复

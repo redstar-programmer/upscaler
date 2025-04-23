@@ -1,11 +1,11 @@
 # redstar upscaler
 FFmpeg、Real-ESRGAN、Flowframesを使用した強力なビデオアップスケーリングツール - **多言語UI**に対応しました！
 
-🌐 言語：
-英語](README.en.md) | [韓国語](README.md) | [日本語](README.ja.md) | [中文](README.zh.md) | [フランス語](README.fr)
-[フランス語](README.fr.md) | [ドイツ語](README.de.md) | [スペイン語](README.es.md) | [ポルトガル語](README.pt.md)
-[Русский](README.ru.md) | [イタリア語](README.it.md) | [ベトナム語](README.vi.md) | [インドネシア語](README.id.md)
-[日本語](README.th.md) | [日本語](README.ar.md)
+## 🌐 Language / 言語設定
+韓国語](README/README.md) | [英語](README/README.en.md) | [日本語](README/README.ja.md) | [中文](README/README.zh.md) | [日本語](README/README.ko)
+[フランス語](README/README.fr.md) | [ドイツ語](README/README.de.md) | [スペイン語](README/README.es.md) | [ポルトガル語](README/README.pt.md)
+[Русский](README/README.ru.md) | [Italiano](README/README.it.md) | [Tiếng Việt](README/README.vi.md) | [インドネシア語](README/README.id.md)
+[日本語](README/README.th.md) | [日本語](README/README.ar.md)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/632c3a83-5416-46c3-8d38-0e1bf153b633" height="250"/>
@@ -16,14 +16,14 @@ FFmpeg、Real-ESRGAN、Flowframesを使用した強力なビデオアップス�
   <em>最新のGUIベース、プリセット設定、マルチファイル処理をサポート</em></em></p></p
 </p>
 
-</p> <em> </em> </p> <em> </em> </p> <em
+</p> <em> </p> <em> </p> <em> </em
 
 ダウンロード : [Release](https://github.com/redstar-programmer/upscaler/releases/)
 
 ## ✨ redstar' upscalerを後援してください。
 
 このプロジェクトが気に入ったか、開発を応援したいですか？
-小さなご支援でより良い機能と安定的なアップデートを手伝ってください！
+小さなご支援で、より良い機能と安定的なアップデートを手伝ってください！
 
 - <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal" height="20"/><br>**PayPal** : [https://paypal.me/redstarprogrammer?country.x=KR&locale.x=ko_KR](https://paypal.me/redstarprogrammer?country.x=KR&locale.x=ko_KR)
 - <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ff69b4?logo=githubsponsors" height="20"/><br>**GitHub Sponsors** : [https://github.com/sponsors/redstar-programmer](https://github.com/sponsors/redstar-programmer)
@@ -53,7 +53,7 @@ FFmpeg、Real-ESRGAN、Flowframesを使用した強力なビデオアップス�
 > ⚠️ Windows環境で開発・テストされました。
 
 以下は、簡単な使用デモ画面で、クリックするとYouTubeに移動します。
-[![デモ映像を見る](https://img.youtube.com/vi/G-JTWRws3co/0.jpg)](https://youtu.be/G-JTWRws3co"YouTubeで見る")
+[![デモ映像を見る](https://img.youtube.com/vi/G-JTWRws3co/0.jpg)](https://youtu.be/G-JTWRws3co「YouTubeで見る」)
 
 ## 💾 インストールと準備事項
 
@@ -77,7 +77,7 @@ FFmpeg、Real-ESRGAN、Flowframesを使用した強力なビデオアップス�
 - ✅ プリセットの保存と自動適用
 - ✅ オーディオコーデックの自動検出とビットレートの自動設定
 - ✅ realesrganモデルの自動検出と選択
-- FFMPEG, real-ESRGAN, Flowframes詳細設定
+- FFMPEG, real-ESRGAN, Flowframesの詳細設定
 - ✅ Flowframesのバージョンによるオプション設定変更<br>(バージョン変更は、メインページのflowframesで該当バージョンのパスを指定すると変更可能)
 <br><br><br><br><br><br><br></br
 ![Image](https://github.com/user-attachments/assets/25d60d82-53a2-4064-bbef-d439d9a9d3d6)
@@ -116,7 +116,7 @@ FFmpeg、Real-ESRGAN、Flowframesを使用した強力なビデオアップス�
 
 ## 🙏 感謝の言葉
 
-- realesrgan by [xinntao](https://github.com/xinntao/Real-ESRGAN)。
+- realesrgan by [xinntao](https://github.com/xinntao/Real-ESRGAN)
 - flowframes by [n00mkrad](https://github.com/n00mkrad/flowframes)
 - このプロジェクトに参加したり、機能を提案したい場合は、[Issues](https://github.com/redstar-javscraper/redstar_upscaler/issues)にコメントを残してください。
 
@@ -128,7 +128,7 @@ v 1.1.0
  > 3.言語設定追加に伴うメッセージおよび一部のコード変更
  > 4.一部UI構成の変更
  > 5. ffmpeg、real-ESRGAN、Flowframesの各バージョン情報表示(メイン画面)
- > 6. Flowframes 1.41.0バージョン対応(現在1.41.0バージョンにcmdコマンドの問題があり、1.40.0, 1.36.0バージョンのみ使用可能)
+ > 6. Flowframes 1.41.0バージョン対応(現在、1.41.0バージョンにcmdコマンドの問題があり、1.40.0, 1.36.0バージョンのみ使用可能)
  > 7. AI Modelsの項目が小文字で表示される問題を解決しました。
  > 8.FFMPEGオプション追加(Pixel, video codec) - ユーザーPCに合ったオプションが表示されます。
  > 9.ユーザーPC別CUDAチェック強化 - 使用可能かどうか及びGPU種類確認可能(メイン画面)
@@ -170,7 +170,7 @@ v 0.1.6
  > 1.画面解像度によって文字サイズが異なる問題を解決しました。
  > 2.プログラムタイトルにバージョン情報が新しいバージョンで表示されない問題を解決しました。
  > 3.config.iniファイルが別のパスに保存される問題を解決しました。
- > 4. realesrganのアップスケーリング倍数を変更する場合、アップスケーリングモデルコンボボックスも一緒に変更
+ > 4. realesrganのアップスケーリング倍数を変更する際、アップスケーリングモデルコンボボックスも一緒に変更する。
  > 5.アップデートチェック機能追加
  > 6.一部のロジック修正
  > 7.解像度とfpsなどテーブルの表記色を変更

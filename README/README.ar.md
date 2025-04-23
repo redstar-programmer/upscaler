@@ -1,11 +1,11 @@
 # Redstar Upscaler
 Tooling FlowFrans ، FlowFrames-NOW Tooling Ffmpeg ، relectrgan ، تدعم Flowframes-NOW ** UI **!
 
-🌐 اللغة:
-[الإنجليزية] (readme.en.md) | [كوري] (readme.md) | [日本語] (readme.ja.md) | [中文] (readme.zh.md) |
-[Français] (readme.fr.md) | [Deutsch] (readme.de.md) | [español] (readme.es.md) | [Português] (readme.pt.md) |
-[рекий] (README.RU.MD) | [Italiano] (readme.it.md) | [tiếng việt] (readme.vi.md) | [Bahasa Indonesia] (readme.id.md) |
-[ภ ไทย] (readme.th.md) | [al] (readme.ar.md)
+## 🌐 إعدادات اللغة / اللغة
+[كوري] (readme/readme.md) | [English] (readme/readme.en.md) | [日本語] (readme/readme.ja.md) | [中文] (readme/readme.zh.md) |
+[Français] (README/README.FR.MD) | [Deutsch] (readme/readme.de.md) | [español] (readme/readme.es.md) | [Português] (readme/readme.pt.md) |
+[рсتمر] (readMe/readMe.ru.MD) | [Italiano] (readme/readme.it.md) | [tiếng việt] (readme/readme.vi.md) | [Bahasa Indonesia] (readme/readme.id.md) |
+[ภ ไทย ไทย] (readme/readme.th.md) | [al] (readme/readme.ar.md)
 
 <p align = "center">
   <img src = "https://github.com/user-attachments/assets/632c3a83-5416-8d38-0e153b633" height = "/"/>
@@ -23,7 +23,7 @@ Tooling FlowFrans ، FlowFrames-NOW Tooling Ffmpeg ، relectrgan ، تدعم Flo
 ## ✨ رعاية Redstar 'Upscaler
 
 هل تريد أن يعجبك هذا المشروع أو تطوير دعم؟  
-ساعد ميزة أفضل وتحديث مستقر مع رعاية صغيرة!
+ساعد ميزة أفضل وتحديث مستقر مع رعاية صغيرة!  
 
 -<img src = "https://img.shields.io/badge/donate-paypal-lue.svg؟logo=paypal" height = "20"/> <br> ** paypal **: [https://paypal.me/redstarprogrammer؟country.x=Kr&Locale.x=Kr&Locale.x=KO_KR]  
 -<img src = "https://img.shields.io/badge/sponsor-gigubsponsors-f69b4؟logo=githubsponsors" height = "20"/> <bramper
@@ -42,7 +42,7 @@ Tooling FlowFrans ، FlowFrames-NOW Tooling Ffmpeg ، relectrgan ، تدعم Flo
 - [📜 التاريخ] (#History)
 
 ## 👋 مقدمة
-** RedStar Upscaler ** هي أداة واجهة المستخدم الرسومية القائمة على Python تقوم تلقائيًا بتثبيت الفيديو إلى الدقة العالية باستخدام "FFMPEG` و" real-esrgan "و" FlowFrames ". 
+** RedStar Upscaler ** هي أداة واجهة المستخدم الرسومية القائمة على Python تقوم تلقائيًا بتثبيت الفيديو إلى الدقة العالية باستخدام "FFMPEG` و" real-esrgan "و" FlowFrames ".
 
 -استخراج إطار الفيديو → الارتفاع → مزيج من الفيديو مرة واحدة
 -دعم لنماذج Realesrgan المختلفة

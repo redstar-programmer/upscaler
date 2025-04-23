@@ -1,11 +1,11 @@
 # redstar upscaler
 Powerful video upscaling tool using FFmpeg, Real-ESRGAN, Flowframes - now supports **multi-language UI**!
 
-🌐 Language:
-[English](README.en.md) | [한국어](README.md) | [日本語](README.ja.md) | [中文](README.zh.md) |
-[Français](README.fr.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [Português](README.pt.md) |
-[Русский](README.ru.md) | [Italiano](README.it.md) | [Tiếng Việt](README.vi.md) | [Bahasa Indonesia](README.id.md) |
-[ภาษาไทย](README.th.md) | [العربية](README.ar.md)
+## 🌐 Language / Language Settings
+[한국어](README/README.md) | [English](README/README.en.md) | [日本語](README/README.ja.md) | [中文](README/README.zh.md) |
+[Français](README/README.fr.md) | [Deutsch](README/README.de.md) | [Español](README/README.es.md) | [Português](README/README.pt.md) |
+[Русский](README/README.ru.md) | [Italiano](README/README.it.md) | [Tiếng Việt](README/README.vi.md) | [Bahasa Indonesia](README/README.id.md) |
+[ภาษาไทย](README/README.th.md) | [العربية](README/README.ar.md)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/632c3a83-5416-46c3-8d38-0e1bf153b633" height="250"/>
@@ -105,7 +105,7 @@ Below is a simple usage demo, click on it to be directed to YouTube:<br>
 
 ## ⚙️ Detailed Feature Description
 
-| Item | Description |
+| Item | Description
 |------|------|
 | **Set working path** | Provide default path or "Use original file path" option |
 | **Video format support** | Most formats supported, including MP4, MKV, AVI, MOV, FLV, WMV, MPG, WEBM, 3GP, OGV, etc.
@@ -125,7 +125,7 @@ Below is a simple usage demo, click on it to be directed to YouTube:<br>
 v 1.1.0
  > 1. menu organization (open file, close file, log settings, language settings)
  > 2. added multi-language settings (available languages: Korean, English, 日本語, 中文, Français, Deutsch, Español, Português, Русский, Tiếng Việt, Bahasa Indonesia, ไทย, Italiano, العربية)
- > 3. Changed the message and some code to reflect the added language settings
+ > 3. Changed the message and some code for adding language settings
  > 4. some UI configuration changes
  > 5. ffmpeg, real-ESRGAN, Flowframes version information (main screen)
  > 6. Support Flowframes 1.41.0 version (currently only 1.40.0, 1.36.0 versions are available due to cmd command issue in 1.41.0 version)
@@ -204,7 +204,7 @@ v 0.1.2
  > 4. changed the way to use realesrgan models
  > -> Copy the new model file (*.param) to the models folder in the realesrgan installation folder and you can use it.
  > 5. display width, height information and estimated upscale size of the last file of the target image to work with
- > 6. Write code to migrate config.ini file
+ > 6. write code to migrate config.ini file
  > 7. change FFMPEG decomposition image AAC -> FLAC
  > 8. other bug fixes
 
