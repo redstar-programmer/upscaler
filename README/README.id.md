@@ -7,8 +7,8 @@ Video Upscaling Video Kuat FFMPEG, Real-Esrgan, Flowframes-NOW mendukung ** UI m
 [Русский](https://github.com/redstar-programmer/upscaler/blob/main/README/README.ru.md) | [Italiano](https://github.com/redstar-programmer/upscaler/blob/main/README/README.it.md) | [Tiếng Việt](https://github.com/redstar-programmer/upscaler/blob/main/README/README.vi.md) | [Bahasa Indonesia](https://github.com/redstar-programmer/upscaler/blob/main/README/README.id.md) |
 [ภาษาไทย](https://github.com/redstar-programmer/upscaler/blob/main/README/README.th.md) | [العربية](https://github.com/redstar-programmer/upscaler/blob/main/README/README.ar.md)
 
-<p align = "center">
-  <Img src = "https://github.com/user-attachments/assets/632c3a83-5416-8d38-0e153b633" height = "/"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/632c3a83-5416-46c3-8d38-0e1bf153b633" height="250"/>
 </p>
 
 <p align = "center">
@@ -25,9 +25,8 @@ Unduh: [rilis]
 Apakah Anda ingin menyukai proyek ini atau pengembangan dukungan?  
 Bantu fitur yang lebih baik dan pembaruan yang stabil dengan sponsor kecil!  
 
--<img src = "https://img.shields.io/badge/donate-paypal-blue.svg?logo=paypal" height = "20"/> <br> ** paypal **: )  
--<img src = "https://img.shields.io/badge/sponsor-gigub20sponsors-f69b4?logo=githubsponsors" height = "20"/> <br> ** sponsor github **: [https://github.com/spons/sponsar ** **: [https://github.com/spons/sponsar
-
+- <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal" height="20"/><br>**PayPal** : [https://paypal.me/redstarprogrammer?country.x=KR&locale.x=ko_KR](https://paypal.me/redstarprogrammer?country.x=KR&locale.x=ko_KR)
+- <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ff69b4?logo=githubsponsors" height="20"/><br>**GitHub Sponsors** : [https://github.com/sponsors/redstar-programmer](https://github.com/sponsors/redstar-programmer)
 
 > 💡 Biaya server, waktu pengembangan, dan secangkir kopi adalah kekuatan besar. Terima kasih!
 
@@ -53,7 +52,7 @@ Bantu fitur yang lebih baik dan pembaruan yang stabil dengan sponsor kecil!
 > ⚠️ dikembangkan dan diuji di lingkungan Windows.
 
 Di bawah ini terhubung ke YouTube dengan mengklik layar penggunaan sederhana. <br>
-[! [Lihat video demonstrasi] (https://img.youtube.com/vi/g-jtwrws3co/0.jpg)] (https://youtu.be/g-jtwrws3co "
+[![Watch the demo](https://img.youtube.com/vi/G-JTWRws3co/0.jpg)](https://youtu.be/G-JTWRws3co "Watch on YouTube")
 
 ## 💾 Instalasi dan Persiapan
 
@@ -66,24 +65,24 @@ Di bawah ini terhubung ke YouTube dengan mengklik layar penggunaan sederhana. <b
 
 ## 🔧 fungsi utama
 
-Lai [Image] (https://github.com/user-attachments/assets/93dc232e-8742-4ae3-935-9395c26a61f4)
+![Image](https://github.com/user-attachments/assets/93dc232e-8742-4ae3-b335-9395c26a61f4)
 -Video pilihan ganda dan pekerjaan berurutan
 -Demehkan video drag/drop
 -✅ apakah akan menjalankan program utama dan memilih seleksi langsung
 -Kisk mode hemat
 -Mukal -Multilingal (15 bahasa)
 <br> <br>
-Lai [Gambar] (https://github.com/user-attachments/assets/3341f4ca-af20-4647-93d0-4841466757)
+![Image](https://github.com/user-attachments/assets/3341f4ca-af20-4647-93d0-484146dc6757)
 -Selver aplikasi preset dan otomatis
 -Deteksi otomatis codec audio dan pengaturan setrate
 -Deteksi otomatis dan pemilihan model realesrgan
 -Ffmpeg, real-esrgan, detail flowframe
 Pengaturan opsi -Dange sesuai dengan versi flowframes <br>
 <br> <br>
-Lai [Gambar] (https://github.com/user-attachments/assets/25d60d82-53a2-4064-bbef-d439d3d6)
+![Image](https://github.com/user-attachments/assets/25d60d82-53a2-4064-bbef-d439d9a9d3d6)
 Konfirmasi Pesanan Eksekusi Upscale (dapat disalin dan dieksekusi secara terpisah dari CMD)
 <br> <br>
-Lai [Image] (https://github.com/user-attachments/assets/2fd69862-d038-401d-a9a6-83dc8c769f0)
+![Image](https://github.com/user-attachments/assets/2fd69862-d038-401d-a9a6-83dc84c769f0)
 -Monitor Kemajuan keseluruhan pekerjaan kelas atas
 Konfirmasi logging -upscale (file log dibuat sebagai tanggal di folder log di folder nyata)
 -Rusementa hasil otomatis setelah selesainya pekerjaan ([Redstar] awalan)
@@ -116,9 +115,9 @@ Konfirmasi logging -upscale (file log dibuat sebagai tanggal di folder log di fo
 
 ## 🙏 Thanksgiving
 
--Realsrgan oleh [xinntao] (https://github.com/xinntao/real-esrgan)
--Flowframes oleh [n00mkrad] (https://github.com/n00mkrad/flowframes)
--Jika Anda ingin berpartisipasi dalam proyek ini atau menyarankan fungsi, silakan tinggalkan pendapat tentang [masalah] (https://github.com/redstar-javscraper/rredstar_upscaler/issues).
+- realesrgan by [xinntao](https://github.com/xinntao/Real-ESRGAN)
+- flowframes by [n00mkrad](https://github.com/n00mkrad/flowframes)
+-Jika Anda ingin berpartisipasi dalam proyek ini atau menyarankan fungsi, silakan tinggalkan pendapat tentang [Issues](https://github.com/redstar-javscraper/redstar_upscaler/issues).
 
 # 📜 Sejarah
 

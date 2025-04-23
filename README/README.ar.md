@@ -7,8 +7,8 @@ Tooling FlowFrans ، FlowFrames-NOW Tooling Ffmpeg ، relectrgan ، تدعم Flo
 [Русский](https://github.com/redstar-programmer/upscaler/blob/main/README/README.ru.md) | [Italiano](https://github.com/redstar-programmer/upscaler/blob/main/README/README.it.md) | [Tiếng Việt](https://github.com/redstar-programmer/upscaler/blob/main/README/README.vi.md) | [Bahasa Indonesia](https://github.com/redstar-programmer/upscaler/blob/main/README/README.id.md) |
 [ภาษาไทย](https://github.com/redstar-programmer/upscaler/blob/main/README/README.th.md) | [العربية](https://github.com/redstar-programmer/upscaler/blob/main/README/README.ar.md)
 
-<p align = "center">
-  <img src = "https://github.com/user-attachments/assets/632c3a83-5416-8d38-0e153b633" height = "/"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/632c3a83-5416-46c3-8d38-0e1bf153b633" height="250"/>
 </p>
 
 <p align = "center">
@@ -25,9 +25,8 @@ Tooling FlowFrans ، FlowFrames-NOW Tooling Ffmpeg ، relectrgan ، تدعم Flo
 هل تريد أن يعجبك هذا المشروع أو تطوير دعم؟  
 ساعد ميزة أفضل وتحديث مستقر مع رعاية صغيرة!  
 
--<img src = "https://img.shields.io/badge/donate-paypal-lue.svg؟logo=paypal" height = "20"/> <br> ** paypal **: [https://paypal.me/redstarprogrammer؟country.x=Kr&Locale.x=Kr&Locale.x=KO_KR]  
--<img src = "https://img.shields.io/badge/sponsor-gigubsponsors-f69b4؟logo=githubsponsors" height = "20"/> <bramper
-
+- <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal" height="20"/><br>**PayPal** : [https://paypal.me/redstarprogrammer?country.x=KR&locale.x=ko_KR](https://paypal.me/redstarprogrammer?country.x=KR&locale.x=ko_KR)
+- <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ff69b4?logo=githubsponsors" height="20"/><br>**GitHub Sponsors** : [https://github.com/sponsors/redstar-programmer](https://github.com/sponsors/redstar-programmer)
 
 > 💡 تكلفة الخادم ، ووقت التطوير ، وكوب من القهوة قوة كبيرة. شكرًا لك!
 
@@ -53,7 +52,7 @@ Tooling FlowFrans ، FlowFrames-NOW Tooling Ffmpeg ، relectrgan ، تدعم Flo
 > ⚠ تم تطويره واختباره في بيئة Windows.
 
 أدناه متصل بـ YouTube من خلال النقر على شاشة استخدام بسيطة. <br>
-[! [عرض فيديو العرض التوضيحي] (https://img.youtube.com/vi/g-jtwrws3co/0.jpg)] (https://youtu.be/g-jtwrws3co "
+[![Watch the demo](https://img.youtube.com/vi/G-JTWRws3co/0.jpg)](https://youtu.be/G-JTWRws3co "Watch on YouTube")
 
 ## 💾 التثبيت والإعداد
 
@@ -66,24 +65,24 @@ Tooling FlowFrans ، FlowFrames-NOW Tooling Ffmpeg ، relectrgan ، تدعم Flo
 
 ## 🔧 الوظيفة الرئيسية
 
-! [Image] (https://github.com/user-attachments/assets/93dc232e-8742-4ae3-935-9395c26a61f4)
+![Image](https://github.com/user-attachments/assets/93dc232e-8742-4ae3-b335-9395c26a61f4)
 -فيديو اختيار متعددة وعمل متسلسل
 -DD ​​الفيديو السحب/إسقاط
 -ما إذا كنت تريد تشغيل البرامج الرئيسية وتحديد التحديد المباشر
 -وضع حفظ الخراء
 -الدعم الملتوي (15 لغة)
 <br> <br>
-! [Image] (https://github.com/user-attachments/assets/3341f4ca-af20-4647-93d0-4841466757)
+![Image](https://github.com/user-attachments/assets/3341f4ca-af20-4647-93d0-484146dc6757)
 -مسبقًا مسبقًا والتطبيق التلقائي
 -اكتشاف أوتوماتيكي لإعدادات ترميز الصوت وإعدادات setRate
 -الكشف الآلي واختيار نماذج Realesrgan
 -ffmpeg ، real-esrgan ، تفاصيل FlowFrames
 -تغيير إعدادات الخيار وفقًا لإصدار FlowFrames <br>
 <br> <br>
-! [Image] (https://github.com/user-attachments/assets/25d60d82-53a2-4064-bbef-d439d3d6)
+![Image](https://github.com/user-attachments/assets/25d60d82-53a2-4064-bbef-d439d9a9d3d6)
 -upscale تأكيد أمر التنفيذ (يمكن نسخه وتنفيذه بشكل منفصل عن CMD)
 <br> <br>
-! [Image] (https://github.com/user-attachments/assets/2fd69862-d038-401d-a9a6-83dc84c769f0)
+![Image](https://github.com/user-attachments/assets/2fd69862-d038-401d-a9a6-83dc84c769f0)
 -استقل التقدم الكلي للعمل الراقي
 -upscale تأكيد تسجيل (يتم إنشاء ملف السجل كتاريخ في مجلد السجل في المجلد الحقيقي)
 -ترتيب آلي للنتيجة بعد الانتهاء من العمل (بادئة [Redstar])
@@ -116,9 +115,9 @@ Tooling FlowFrans ، FlowFrames-NOW Tooling Ffmpeg ، relectrgan ، تدعم Flo
 
 ## 🙏 عيد الشكر
 
--Realsrgan بواسطة [Xinntao] (https://github.com/xinntao/real-esrgan)
--lowframes by [n00mkrad] (https://github.com/n00mkrad/flowframes)
--إذا كنت ترغب في المشاركة في هذا المشروع أو اقتراح وظيفة ، فيرجى ترك رأي حول [القضايا] (https://github.com/redstar-javscraper/rredstar_upscaler/issues).
+- realesrgan by [xinntao](https://github.com/xinntao/Real-ESRGAN)
+- flowframes by [n00mkrad](https://github.com/n00mkrad/flowframes)
+-إذا كنت ترغب في المشاركة في هذا المشروع أو اقتراح وظيفة ، فيرجى ترك رأي حول [Issues](https://github.com/redstar-javscraper/redstar_upscaler/issues).
 
 # 📜 التاريخ
 

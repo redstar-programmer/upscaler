@@ -12,11 +12,10 @@
 </p>
 
 <p align="center">
-  <strong>基于 fmpeg、realesrgan 和 flowframes 的视频缩放工具</strong><br
-  <em>基于现代图形用户界面，预设设置，支持多文件处理</em
+  <strong>基于 fmpeg、realesrgan 和 flowframes 的视频缩放工具</strong><br>
+  <em>基于现代图形用户界面，预设设置，支持多文件处理</em>
 </p>
 
----.
 
 下载：[发布](https://github.com/redstar-programmer/upscaler/releases/)
 
@@ -25,9 +24,8 @@
 您喜欢这个项目或想支持它的发展吗？
 请捐助一小笔钱，帮助我们开发更好的功能和可靠的更新！
 
-- <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal" height="20"/><br>****PayPal** : [https://paypal.me/redstarprogrammer?country.x=KR&locale.x=ko_KR](https://paypal.me/redstarprogrammer?country.x=KR&locale.x=ko_KR)
-- <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ff69b4?logo=githubsponsors" height="20"/><br>****GitHub 赞助商** : [https://github.com/sponsors/redstar-programmer](https://github.com/sponsors/redstar-programmer)
-
+- <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal" height="20"/><br>**PayPal** : [https://paypal.me/redstarprogrammer?country.x=KR&locale.x=ko_KR](https://paypal.me/redstarprogrammer?country.x=KR&locale.x=ko_KR)  
+- <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ff69b4?logo=githubsponsors" height="20"/><br>**GitHub Sponsors** : [https://github.com/sponsors/redstar-programmer](https://github.com/sponsors/redstar-programmer)
 
 > 💡 您对服务器成本、开发时间和一杯咖啡的赞助将大有裨益。谢谢！
 
