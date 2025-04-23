@@ -2,10 +2,10 @@
 Tooling FlowFrans ، FlowFrames-NOW Tooling Ffmpeg ، relectrgan ، تدعم Flowframes-NOW ** UI **!
 
 ## 🌐 إعدادات اللغة / اللغة
-[كوري] (readme/readme.md) | [English] (readme/readme.en.md) | [日本語] (readme/readme.ja.md) | [中文] (readme/readme.zh.md) |
-[Français] (README/README.FR.MD) | [Deutsch] (readme/readme.de.md) | [español] (readme/readme.es.md) | [Português] (readme/readme.pt.md) |
-[рсتمر] (readMe/readMe.ru.MD) | [Italiano] (readme/readme.it.md) | [tiếng việt] (readme/readme.vi.md) | [Bahasa Indonesia] (readme/readme.id.md) |
-[ภ ไทย ไทย] (readme/readme.th.md) | [al] (readme/readme.ar.md)
+[한국어](https://github.com/redstar-programmer/upscaler/blob/main/README.md) | [English](https://github.com/redstar-programmer/upscaler/blob/main/README/README.en.md) | [日本語](https://github.com/redstar-programmer/upscaler/blob/main/README/README.ja.md) | [中文](https://github.com/redstar-programmer/upscaler/blob/main/README/README.zh.md) |
+[Français](https://github.com/redstar-programmer/upscaler/blob/main/README/README.fr.md) | [Deutsch](https://github.com/redstar-programmer/upscaler/blob/main/README/README.de.md) | [Español](https://github.com/redstar-programmer/upscaler/blob/main/README/README.es.md) | [Português](https://github.com/redstar-programmer/upscaler/blob/main/README/README.pt.md) |
+[Русский](https://github.com/redstar-programmer/upscaler/blob/main/README/README.ru.md) | [Italiano](https://github.com/redstar-programmer/upscaler/blob/main/README/README.it.md) | [Tiếng Việt](https://github.com/redstar-programmer/upscaler/blob/main/README/README.vi.md) | [Bahasa Indonesia](https://github.com/redstar-programmer/upscaler/blob/main/README/README.id.md) |
+[ภาษาไทย](https://github.com/redstar-programmer/upscaler/blob/main/README/README.th.md) | [العربية](https://github.com/redstar-programmer/upscaler/blob/main/README/README.ar.md)
 
 <p align = "center">
   <img src = "https://github.com/user-attachments/assets/632c3a83-5416-8d38-0e153b633" height = "/"/>

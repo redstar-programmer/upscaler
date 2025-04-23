@@ -2,10 +2,10 @@
 Video Upscaling Video Kuat FFMPEG, Real-Esrgan, Flowframes-NOW mendukung ** UI multi-bahasa **!
 
 ## 🌐 Pengaturan bahasa / bahasa
-[Korea] (readme/readme.md) | [Bahasa Inggris] (readme/readme.en.md) | [日本語] (readme/readme.ja.md) | [中文] (readme/readme.zh.md) |
-[Français] (readme/readme.fr.md) | [Deutsch] (readme/readme.de.md) | [Español] (readme/readme.es.md) | [Português] (readme/readme.pt.md) |
-[Рсский] (readme/readme.ru.md) | [Italiano] (readme/readme.it.md) | [Tiếng việt] (readme/readme.vi.md) | [Bahasa Indonesia] (Readme/Readme.id.md) |
-[ภ ไทย ไทย] (readme/readme.th.md) | [ال] (readme/readme.ar.md)
+[한국어](https://github.com/redstar-programmer/upscaler/blob/main/README.md) | [English](https://github.com/redstar-programmer/upscaler/blob/main/README/README.en.md) | [日本語](https://github.com/redstar-programmer/upscaler/blob/main/README/README.ja.md) | [中文](https://github.com/redstar-programmer/upscaler/blob/main/README/README.zh.md) |
+[Français](https://github.com/redstar-programmer/upscaler/blob/main/README/README.fr.md) | [Deutsch](https://github.com/redstar-programmer/upscaler/blob/main/README/README.de.md) | [Español](https://github.com/redstar-programmer/upscaler/blob/main/README/README.es.md) | [Português](https://github.com/redstar-programmer/upscaler/blob/main/README/README.pt.md) |
+[Русский](https://github.com/redstar-programmer/upscaler/blob/main/README/README.ru.md) | [Italiano](https://github.com/redstar-programmer/upscaler/blob/main/README/README.it.md) | [Tiếng Việt](https://github.com/redstar-programmer/upscaler/blob/main/README/README.vi.md) | [Bahasa Indonesia](https://github.com/redstar-programmer/upscaler/blob/main/README/README.id.md) |
+[ภาษาไทย](https://github.com/redstar-programmer/upscaler/blob/main/README/README.th.md) | [العربية](https://github.com/redstar-programmer/upscaler/blob/main/README/README.ar.md)
 
 <p align = "center">
   <Img src = "https://github.com/user-attachments/assets/632c3a83-5416-8d38-0e153b633" height = "/"/>

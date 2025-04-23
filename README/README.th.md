@@ -2,10 +2,10 @@
 เครื่องมือการปรับขนาดวิดีโอที่ทรงพลัง ffmpeg, real-esrgan, flowframes-now รองรับ ** ui หลายภาษา **!
 
 ## 🌐การตั้งค่าภาษา / ภาษา
-[เกาหลี] (readme/readme.md) | [ภาษาอังกฤษ] (readme/readme.en.md) | [日本語] (readme/readme.ja.md) | [中文] (readme/readme.zh.md) |
-[français] (readme/readme.fr.md) | [Deutsch] (readme/readme.de.md) | [español] (readme/readme.es.md) | [Português] (readme/readme.pt.md) |
-[рссский] (readme/readme.ru.md) | [italiano] (readme/readme.it.md) | [tiếngviệt] (readme/readme.vi.md) | [Bahasa Indonesia] (readme/readme.id.md) |
-[ภไทย] (readme/readme.th.md) | [ال] (readme/readme.ar.md)
+[한국어](https://github.com/redstar-programmer/upscaler/blob/main/README.md) | [English](https://github.com/redstar-programmer/upscaler/blob/main/README/README.en.md) | [日本語](https://github.com/redstar-programmer/upscaler/blob/main/README/README.ja.md) | [中文](https://github.com/redstar-programmer/upscaler/blob/main/README/README.zh.md) |
+[Français](https://github.com/redstar-programmer/upscaler/blob/main/README/README.fr.md) | [Deutsch](https://github.com/redstar-programmer/upscaler/blob/main/README/README.de.md) | [Español](https://github.com/redstar-programmer/upscaler/blob/main/README/README.es.md) | [Português](https://github.com/redstar-programmer/upscaler/blob/main/README/README.pt.md) |
+[Русский](https://github.com/redstar-programmer/upscaler/blob/main/README/README.ru.md) | [Italiano](https://github.com/redstar-programmer/upscaler/blob/main/README/README.it.md) | [Tiếng Việt](https://github.com/redstar-programmer/upscaler/blob/main/README/README.vi.md) | [Bahasa Indonesia](https://github.com/redstar-programmer/upscaler/blob/main/README/README.id.md) |
+[ภาษาไทย](https://github.com/redstar-programmer/upscaler/blob/main/README/README.th.md) | [العربية](https://github.com/redstar-programmer/upscaler/blob/main/README/README.ar.md)
 
 <p allign = "center">
   <img src = "https://github.com/user-attachments/assets/632c3a83-5416-8d38-0e153b633" ความสูง = "/"/>
